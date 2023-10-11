@@ -61,22 +61,22 @@ h1:hover {
 
 .one {
     margin: 100px;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 .two {
     margin: 100px;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 .three {
     margin: 100px;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 .four {
     margin: 100px;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 .tool {
@@ -97,7 +97,7 @@ p {
     background-image: url(dollar.jpg);
     height: 200px;
     width: 300px;
-    margin-top: 100px;
+    margin-top: 70px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -116,7 +116,7 @@ p {
     background-image: url(euro.jpg);
     height: 200px;
     width: 300px;
-    margin-top: 100px;
+    margin-top: 70px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -135,7 +135,7 @@ p {
     background-image: url(rubl.jpeg);
     height: 200px;
     width: 300px;
-    margin-top: 100px;
+    margin-top: 70px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -154,7 +154,7 @@ p {
     background-image: url(lire.jpg );
     height: 200px;
     width: 300px;
-    margin-top: 100px;
+    margin-top: 70px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
